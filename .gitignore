@@ -34,3 +34,7 @@ node_modules/
 npm-debug.log
 
 .vscode/
+
+# package-lock.json
+# https://stackoverflow.com/questions/45022048/why-does-npm-install-rewrite-package-lock-json
+package-lock.json
